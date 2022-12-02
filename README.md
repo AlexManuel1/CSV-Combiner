@@ -1,6 +1,6 @@
 # CSV Combiner
 
-This script will be able to combine multiple csv files to a new CSV file (`stdout`) where the filename is specified at the end of each row. It also allows for csv files with different column names and files > 2gb. I tested the script with a 7.6 gb csv file and it worked as expected. Runtime is O(n * m) where n is number of inputted csv files and m is length of those files.
+This script will be able to combine multiple csv files to a new csv file (`stdout`) where the filename is specified at the end of each row. It also allows for csv files with different column names and files > 2gb. I tested the script with a 7.6 gb csv file and it worked as expected. Runtime is O(n * m) where n is number of inputted csv files and m is length of those files.
 
 ## Considerations
 
