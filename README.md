@@ -24,8 +24,8 @@ $ python3 csv-combiner.py accessories.csv clothing.csv > combined.csv
 
 ## How To Run CSV Combiner Unittest
 
-type `python3 test-csv-combinber.py`. This will run all the test cases within the TestCombiner class. It will let you know if a test has failed, otherwise, it will print `OK` to the console
+type `python3 test-csv-combiner.py`. This will run all the test cases within the TestCombiner class. It will let you know if a test has failed, otherwise, it will print `OK` to the console
 
 ```
-$ python3 test-csv-combinber.py
+$ python3 test-csv-combiner.py
 ```
